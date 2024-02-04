@@ -1,0 +1,10 @@
+name: Traps
+main: ru.n08i40k.traps.TrapsPlugin
+version: '${version}'
+author: N08I40K
+api-version: 1.16
+depend:
+  - NBTAPI
+  - NPluginApi
+  - WorldEdit
+  - WorldGuard
