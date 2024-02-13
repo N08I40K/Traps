@@ -7,7 +7,7 @@ import org.bukkit.Material;
 import org.bukkit.command.Command;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.scheduler.BukkitScheduler;
-import ru.n08i40k.npluginapi.craft.NCraftRecipeEntry;
+import ru.n08i40k.npluginapi.custom.craft.NCraftRecipeEntry;
 import ru.n08i40k.traps.commands.MainCommand;
 import ru.n08i40k.traps.config.TrapsConfig;
 import ru.n08i40k.traps.config.MainConfig;

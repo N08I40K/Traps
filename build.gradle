@@ -4,7 +4,7 @@ plugins {
 }
 
 group = 'ru.n08i40k'
-version = '1.1'
+version = '1.1.1'
 
 repositories {
     mavenCentral()
@@ -48,7 +48,7 @@ dependencies {
     compileOnly 'de.tr7zw:item-nbt-api-plugin:2.12.0'
 
     // My libs
-    compileOnly 'ru.n08i40k:npluginapi:1.4.1'
+    compileOnly 'ru.n08i40k:npluginapi:1.5'
     implementation 'ru.n08i40k:npluginlocale:1.3'
     implementation 'ru.n08i40k:npluginconfig:1.2'
 

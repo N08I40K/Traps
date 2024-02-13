@@ -15,7 +15,7 @@ import ru.n08i40k.npluginlocale.LocaleRequestBuilder;
 import ru.n08i40k.traps.TrapsPlugin;
 import ru.n08i40k.traps.config.traps.PotionEffectEntry;
 import ru.n08i40k.traps.config.traps.TrapEntry;
-import ru.n08i40k.npluginapi.itemStack.NItemStack;
+import ru.n08i40k.npluginapi.custom.itemStack.NItemStack;
 import ru.n08i40k.traps.trap.ActiveTrap;
 import ru.n08i40k.traps.world.WorldCache;
 
